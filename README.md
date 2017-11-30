@@ -1,5 +1,5 @@
 # hello-texas
-Try to learn
+Learning
 
 Hi World!
 
